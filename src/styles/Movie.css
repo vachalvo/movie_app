@@ -1,0 +1,16 @@
+.card-container {
+    width: 500px;
+    box-shadow: 0 0 10px -5px;
+    overflow: hidden;
+    background: #ffffff;
+    border-radius: 16px;
+}
+
+.img-container img{
+    height: 200px;
+    overflow: hidden;
+}
+
+.title {
+    margin-bottom: 8px;
+}
